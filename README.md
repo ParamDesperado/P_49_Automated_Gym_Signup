@@ -37,16 +37,17 @@ Make sure you have the following installed:
 
 ## ⚙️ Setup
 - Clone this repository
-- Edit your credentials inside the script:
-  ACCOUNT_EMAIL = "your_email@example.com"
-  ACCOUNT_PASSWORD = "your_password"
+- Edit your credentials inside the script:(run only the part upto the setup + driver.get(GYM_URL)
+- Do this by commenting out the rest of the code and then put in your credentials in these two variables
+- ACCOUNT_EMAIL = "your_email@example.com"
+- ACCOUNT_PASSWORD = "your_password"
 ---
-🧩 Tech Stack
-	•	Python 3
-	•	Selenium WebDriver
-	•	ChromeDriver
-	•	WebDriverWait & Expected Conditions
-	•	Robust Retry Mechanism
+## 🧩 Tech Stack
+•	Python 3
+•	Selenium WebDriver
+•	ChromeDriver
+•	WebDriverWait & Expected Conditions
+•	Robust Retry Mechanism
 ---
 
 ## 📊 Example Output
